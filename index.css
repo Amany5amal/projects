@@ -122,23 +122,41 @@ img {vertical-align: middle;}
 }
 /*///////*/
   .c{
-     background-color: #ddd;
-      color:black;
+    background-image: url("atc.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     
+      color:white;
+     
+      background-attachment: fixed;
+     background-color:rgb(66, 77, 77);
+      background-blend-mode:multiply;
       
       
   }
   .s{
      
+     background-image: url("ddna.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
      
-      color:black;
-      
-      background-color:#ddd;
+      color:white;
+      padding: 0%;
+      margin: 0%;
+      background-attachment: fixed;
+     background-color:rgb(56, 63, 63);
+      background-blend-mode:multiply;
       
   }
-  img{
-    size: 50pc;
-    padding: 2pc;
-    margin: 2pc;
+  
+  h2{
+    color: blue;
+  }
+  .m{
+    opacity: 0.5;
+  }
+  i{
+    color:yellow;
   }
 
   
